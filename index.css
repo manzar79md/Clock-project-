@@ -1,0 +1,60 @@
+body{
+    background-color: azure;
+}
+
+#clockContainer{
+    position: relative;
+    margin: auto;
+    height: 40vw;
+    width: 40vw;
+    background: url(clock.png)no-repeat;
+    background-size: 100%;
+}
+
+#hour,#minute,#second{
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour{
+    width: 0.70%;
+    height: 21.2%;
+    top: 28.7%;
+    left: 50%;
+    opacity: 0.8;
+}
+
+
+#minute{ 
+    width: 0.40%;
+    height: 35%;
+    top: 15.1%;
+    left: 50%;
+    opacity: 0.8;
+}
+
+
+#second{     
+    width: 0.25%;
+    height: 34.1%;
+    top: 15.8%;
+    left: 49.8%;
+    opacity: 0.8;
+}
+
+
+.text{
+    position: relative;;
+    top: 30%;
+    text-align: center;
+    color: black;
+}
+
+.text2{
+    position: relative;;
+    top: 45%;
+    text-align: center;
+    color: black;
+}
