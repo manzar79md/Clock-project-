@@ -4,7 +4,7 @@ This project is a real-time analog clock built using pure HTML, CSS, and JavaScr
 
 You can view the live version of the clock by clicking the link below:
 
-Live Clock Project
+Live Clock Project https://manzar79md.github.io/Clock-project-/
 
 Features
 Real-time clock: The time updates automatically every second using JavaScript.
@@ -29,10 +29,6 @@ Setup and Usage
 Clone or download the repository to your local machine.
 Open the index.html file in any modern web browser to view the clock.
 Alternatively, you can view the live version of the clock here.
-Screenshot ![clock](https://github.com/user-attachments/assets/89e61e82-9ab9-466f-b89c-0cd2b912d7fe)
-
-
-
 Future Improvements
 Add themes for the clock to allow customization of its appearance.
 Integrate an option to show different timezones or time formats.
